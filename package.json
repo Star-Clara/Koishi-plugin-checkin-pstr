@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-checkin-pstr",
-  "description": "(WIP-有问题需要修)❤️这是一个签到插件❤️第一次使用需要输入\"初始化\"，每隔18小时签到一次",
-  "version": "0.0.1",
+  "description": "\u0016\u0016(WIP-有问题需要修)❤️这是一个签到插件❤️第一次使用需要输入\\\"初始化\\\"，每隔18小时签到一次",
+  "version": "1.0.0rc",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
