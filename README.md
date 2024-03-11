@@ -1,4 +1,4 @@
-# Koishi-plugin-checkin-pstr npmv1.0.0-rc
+# Koishi-plugin-checkin-pstr
 
 ## User check-in plug-in for Koishi chatbot framework
 
