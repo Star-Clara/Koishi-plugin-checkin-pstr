@@ -3,6 +3,7 @@
 ## User check-in plug-in for Koishi chatbot framework
 
 ————————————————————————
+## im going to add a market system in the future ^_^
 
 ### 1. Introduce 
 
